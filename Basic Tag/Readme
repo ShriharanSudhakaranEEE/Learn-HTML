@@ -1,1 +1,23 @@
 
+In this html file we can see the basics tags of the hmtl file 
+
+The basic tags are mentioned below 
+ 
+       1. <!DOCTYPE>             --> Like header file to the html file
+       2. <html> </html>         --> This is the main tag of the html main all the 
+                                     content should be inside the html file. like main
+                                      function in the c language.
+       3. <html lang="en">       --> Language we used for the html file should me mentioned.
+       4. <head> </head>         --> Head tag is present inside the html tag. here the title 
+                                     and other description related to the webpage is mentioned 
+                                     and the charset is mentioned here.
+       5.<meta charset="UTF-8">  --> charset we used in our html file should be mentioned clearly
+       6.<title> </title>        --> Title of the webpage is mentioned  inside head tag under the 
+                                     title tag we shown here.
+       7.<body> </body>          --> Body tags is where the content of the webpage is given 
+                                     inside the body such as heading paragraph,etc.
+       8.<h1> </h1>              --> H tag is used to mention the heading of the webpage .
+                                     if it is h1 then it is main heading and h2 is sub
+                                     heading and goes to h n accordingly.
+       9.<p> </p>                --> P is the paragraph tag which is used to write a paragraph
+      10.<br>                    --> br tag is used to break the line.
