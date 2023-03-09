@@ -1,1 +1,35 @@
+# About the  Links in the html
 
+There are three different types of link in html
+    
+      1. Absolute link
+      2. Relative link
+      3. Internal link
+      
+Absolute Link: 
+    
+       An absolute link is a type of link which <br>
+        is used to link the webpage with the another <br>
+        webpage that is to redirect to the another webpage.
+          <br>
+              Ex: Linking youtube link in the webpage <br>
+                  <a href="https://www.google.co.in/?safe=active&ssui=on">Google</a>
+                  
+Relative Link:
+ 
+       A relative link is a type of link which <br>
+        is used to link the local file <br>(i.e)
+        linking the html file with css file or anyother <br>
+        local file.
+
+           <br>  Ex: Linking html with css
+           
+Internal Link:
+
+        An interal link is a type of link which <br>
+        is used to link the different section of <br>
+        the webpage. 
+
+             Ex: Linking section 
+       
+     
