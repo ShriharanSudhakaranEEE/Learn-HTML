@@ -1,0 +1,10 @@
+#This page is about the iFrames
+
+
+            iframes are not but embedinng or syncing another
+            webpage into our webpage and use them . some website 
+            doent allow iframes 
+            
+               Syntax:
+                
+                  <iframe src="www.abc.com" frameborder="0" height="xx" weight="xx">txt</iframe>
