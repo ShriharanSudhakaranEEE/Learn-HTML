@@ -1,1 +1,35 @@
+#This file is to add Image and Video to the webpage .
+
+
+Addingg IMG file :
+
+      Adding img file to the webpage uses as syntax of
+      
+                 <img src="xxx.jpg" rel="txt" width="xx" height="xx">
+                 
+                 we cam link the local image to the webpage and directly link the
+                 image from the web.
+                 
+Adding Video file :
+
+     This involves Two category that 
+          1. Adding local video.
+          2. Adding Video Through url or through iframes.
+          
+          
+     Adding local Video:
+               
+                Adding Local video file to the webpage uses as syntax of
+                
+                   <video src="xxx.mp4" autoplay poster="xxx.jpg" loop controls width="xx" height="xx">Txt</video>
+                   
+                      autoplay--> Play the video while the webpage load.
+                      poster -->  It is used to add thumbnail to the video.
+                      loop --> It is used to replay the video after it end.
+                      control--> Used to control the video like play ,pause ,etc
+                      
+                Adding Video from the youtube is bit simple process to do just tap share option
+                and get embed and paste in the html file .
+                                                                     
+                 
 
