@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="Author" content="Shriharan">
+    <meta name="Description" content="About this page">
+    <link rel="icon" href="html5.png">
+    <title>Links</title>
+
+</head>
+<body>
+    
+    <h1>This page is about Inputs and forms</h1>
+   <form action="https://httpbin.org/">
+
+    
+    <fieldset>
+        <legend>About Yourself</legend>
+        <br>
+    <label for="First Name"> First Name :</label>
+    <input type="text" name="FirstName" required autocomplete="on" width="30"
+    placeholder="Shri" >
+    <br> 
+    <br>
+
+    <label for="Gender">Gender :</label>
+    <select name="Gender" id="Gender">
+       <option value="Male">Male</option>
+       <option value="Female">Female</option>
+    </select>
+    <br>
+    <br>
+
+    <label for="DOB">DOB :</label>
+    <input type="date" name="DOB">
+    <br>
+    <br>
+
+
+    <label for="Phone Number">Phone Number:</label>
+    <input type="tel" name="Phone Number" required autocomplete="on"
+     placeholder="70358920221">
+    <br>
+    <br>
+
+    <div>
+    <label for="Password" style="color: black;">Password : </label>
+    <input type="password" name="Password" required autocomplete="on"
+    placeholder="Your pin">
+    </div>
+    <br>
+
+
+    <label for="Coffee">Favorite Coffee:</label>
+    <input type="text" name="COffee" list="Coffee List">
+       <datalist id="Coffee List">
+           <option value="BlackCoffee"></option>
+           <option value="Cappasino"></option>
+       </datalist>
+    <br>
+    <br>
+
+    <fieldset>
+        <legend>Choose your Food</legend>
+        <p>
+            <input type="radio" name="Food" value="Biriyani">
+            <label for="Food">Biriyani</label>
+        </p>
+        <p>
+            <input type="radio" name="Food" value="Parotta">
+            <label for="Food">Parrota</label>
+
+        </p>
+    </fieldset> 
+    <div>
+        <br>
+        
+    <label for="Response">Comment Your Thoughts</label></div>
+    <br>
+    <textarea name="Response" id="" cols="30" rows="10"
+    placeholder="Commemt"></textarea>
+    <br>
+    <button type="submit">Submit</button>
+    <button type="reset"> Reset</button>
+</fieldset>
+</form>
+</body>
+
+</html>
