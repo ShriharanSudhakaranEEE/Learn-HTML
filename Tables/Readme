@@ -1,0 +1,17 @@
+# This page ia about the Tables in HTML
+
+        In html Table has diff Tags 
+          
+             1.<tr>--> This tag denotes table row
+             2.<th>--> Table Heading.
+             3.<td>--> Table Details.
+             4.rowspan="n" --> attribute used to combine n number of rows.
+             5.colspan="n" --> attribute used to combine n number of columns.
+             6.<thead> --> Table Header.
+             7.<tbody> --> Table Body.
+             8.<tfoot> --> Table Footer.
+             9.<caption> --> this tag is used to add detail about table.
+             
+Note :
+    In html table cannot be drawn , with the help of css table is drawn
+    
